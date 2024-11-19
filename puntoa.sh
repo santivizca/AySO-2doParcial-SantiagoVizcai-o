@@ -1,5 +1,5 @@
-2  sudo fdisk /dev/sde
-    3  sudo fdisk /dev/sdd
+	sudo fdisk /dev/sde
+    3   sudo fdisk /dev/sdd
     4  sudo mkswap /dev/sdd1
     5  sudo swapon /dev/sdd1
     6  free -h
